@@ -135,7 +135,7 @@ img {
   margin: 0 auto; }
 
 .header {
-  background: url(banner.png);
+  background: url(../images/banner.png);
   background-size: cover;
   background-position: center center;
   padding: 308px 0;
